@@ -1,0 +1,16 @@
+{
+  "name": "ex5-backend",
+  "version": "1.0.0",
+  "description": "Backend service for Docker Compose IaC demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "docker",
+    "docker-compose",
+    "iac"
+  ],
+  "author": "",
+  "license": "ISC"
+}
